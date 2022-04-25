@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/agitelgun/Library/Caches/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_AuthGuard.-496790763/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=242a01b7_002D1172_002D4128_002Dbee4_002D1caa3c9bebcf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateToken_Should_Return_As_Expected #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Controllers.AuthenticationControllerTests.GenerateToken_Should_Return_As_Expected&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4bbc2e54_002De569_002D4c05_002Db13f_002D786e21529f69/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateToken_Should_Return_As_Expected" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Controllers.AuthenticationControllerTests.GenerateToken_Should_Return_As_Expected&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=96bc593b_002De3fe_002D43dd_002Db4e5_002D023e3aed9905/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GenerateToken_Should_Return_As_Expected #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Controllers.AuthenticationControllerTests.GenerateToken_Should_Return_As_Expected&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Controllers.AuthenticationControllerTests.GenerateToken_Should_Return_As_UnExpected&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.ProgramTests.CreateHostBuilder_Should_Work_As_Expected&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.StartupTest.ConfigureServices_RegistersDependenciesCorrectly&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Infrastructure.AuthenticationManager.AuthManagerTests.GenerateToken_Should_Return_As_UnExpected&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Middleware.ErrorMiddlewareTests.InvokeRequest_Should_WorkedProperly&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Middleware.ErrorMiddlewareTests.InvokeRequest_Should_CatchException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Middleware.ErrorMiddlewareTests.InvokeRequest_Should_CatchExceptionWithIpAddress&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Services.UserServiceTests.IsValidUserCredentials_Should_Return_True_With_TokenRequest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Services.UserServiceTests.IsValidUserCredentials_Should_Return_False_With_InvalidUserName&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Services.UserServiceTests.IsValidUserCredentials_Should_Return_False_With_InvalidPassword&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Services.UserServiceTests.IsValidUserCredentials_Should_Return_False_With_InvalidClientId&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::08254065-A875-4716-BDDC-F4AA8C2D1E09::net5.0::AuthGuard.API.Tests.Services.UserServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

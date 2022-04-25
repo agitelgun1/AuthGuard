@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthGuard.API", "AuthGuard.API\AuthGuard.API.csproj", "{17080051-E6D0-41ED-B03E-AD6BD6C24A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthGuard.API.Tests", "AuthGuard.API.Tests\AuthGuard.API.Tests.csproj", "{08254065-A875-4716-BDDC-F4AA8C2D1E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17080051-E6D0-41ED-B03E-AD6BD6C24A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17080051-E6D0-41ED-B03E-AD6BD6C24A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17080051-E6D0-41ED-B03E-AD6BD6C24A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17080051-E6D0-41ED-B03E-AD6BD6C24A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08254065-A875-4716-BDDC-F4AA8C2D1E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08254065-A875-4716-BDDC-F4AA8C2D1E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08254065-A875-4716-BDDC-F4AA8C2D1E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08254065-A875-4716-BDDC-F4AA8C2D1E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
